@@ -1,6 +1,6 @@
-# Slack Bot for Question Answering
+# Slack Bot for Summarizing Long Messages
 
 
 
-- It is a retriever-reader based model for document based question answering using **Haystack** and **Elastic Search** 
-- The Slack Bot performs extractive search on all documents present in a Slack channel, and answers user queries
+- Used Java Slack API for building the Slack Bot
+- Used OpenAI GPT3's summarizing feature to summarize long messages
